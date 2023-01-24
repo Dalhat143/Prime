@@ -1,0 +1,537 @@
+@media (min-width: 661px) and (max-width:1100px) {
+    .navbar {
+        display: inline-block;
+        padding: 0 20px;
+    }
+
+    .left {
+        text-align: left;
+        padding: 0;
+    }
+
+    .prime {
+        margin: 10px;
+        font-size: 40px;
+        font-weight: 799;
+    }
+
+    .middle {
+        width: 65%;
+        display: inline-block;
+    }
+
+    li {
+        margin: 10px 0;
+    }
+
+    .middle a {
+        font-size: 15px;
+        font-weight: 700;
+        line-height: 20px;
+        cursor: pointer;
+    }
+
+    .right {
+        width: 35%;
+        display: inline-flex;
+        padding: 0;
+        margin: 0;
+        justify-content: left;
+    }
+
+    .contact-us {
+        font-size: 16px;
+        margin: 11px 0;
+        font-weight: 800;
+        border: 3px solid white;
+    }
+
+    .more-economy {
+        position: absolute;
+        bottom: 0;
+        right: 50px;
+    }
+
+    .more {
+        font-size: 25px;
+        line-height: 37px;
+        margin: 0;
+    }
+
+    .more br {
+        display: none;
+    }
+
+    .most-beloved {
+        font-size: 16px;
+        margin: 10px 0;
+    }
+
+    .most-beloved br:nth-child(1),
+    .most-beloved br:nth-child(3) {
+        display: none;
+    }
+
+    .dis-btn {
+        font-size: 16px;
+        padding: 3px 10px;
+    }
+
+    .dis-btn img {
+        height: 20px;
+    }
+
+    #about-us {
+        font-size: 40px;
+        padding: 20px 0;
+    }
+
+    .sect-two {
+        display: block;
+        text-align: center;
+    }
+
+    .btm-aus {
+        text-align: center;
+    }
+
+    .left-curve,
+    .right-curve {
+        height: 75px;
+    }
+
+    #all {
+        font-size: 35px;
+        line-height: 48px;
+    }
+
+    .mid-div {
+        margin: 80px auto;
+        width: 83%;
+    }
+
+    .one img,
+    .three img,
+    .two img {
+        height: 100px;
+        margin-bottom: 0;
+    }
+
+    .sec-cars h1 {
+        margin: 0;
+        padding-top: 40px;
+        font-size: 35px;
+        text-align: center;
+    }
+
+    .sec-cars p {
+        text-align: center;
+        font-size: 20px;
+    }
+
+    .car-imgs1,
+    .car-imgs2 {
+        display: block;
+        text-align: center;
+    }
+
+    .car-imgs1 img {
+        width: 48%;
+    }
+
+    .car-imgs2 img {
+        width: 48%;
+    }
+
+    .car-imgs2 img:nth-child(1),
+    .car-imgs2 img:nth-child(5) {
+        width: 24%;
+    }
+
+    .daya,
+    .fifth {
+        display: none;
+    }
+
+    .be-amazed {
+        display: block;
+        padding: 0;
+    }
+
+    .be-amazed br {
+        display: none;
+    }
+
+    .be-amazed h1 {
+        margin: 0;
+        font-size: 35px;
+    }
+
+    .be-amazed p {
+        font-size: 18px;
+        margin: 15px 0;
+    }
+
+    .cont-text {
+        font-size: 9em;
+        text-align: center;
+    }
+
+    .contact {
+        display: block;
+        text-align: center;
+    }
+
+    .contact h1 {
+        font-size: 35px;
+    }
+
+    .inputs {
+        margin-top: 45px;
+    }
+
+    .pin {
+        height: 37px;
+        top: 32%;
+    }
+
+    .prim {
+        font-size: 30px;
+    }
+
+    .prim:hover {
+        font-size: 31px;
+    }
+
+    .call-us h2 {
+        font-size: 16px;
+        margin-top: 30px;
+    }
+}
+
+@media (max-width: 660px) {
+    .navbar {
+        display: inline-block;
+        padding: 0 20px;
+    }
+
+    .left {
+        text-align: left;
+        padding: 0;
+    }
+
+    .prime {
+        margin: 10px;
+        font-size: 15px;
+        font-weight: 700;
+    }
+
+    .middle {
+        width: 65%;
+        display: inline-block;
+    }
+
+    li {
+        margin: 5px 0;
+    }
+
+    .middle a {
+        font-size: 10px;
+        font-weight: 700;
+        cursor: pointer;
+    }
+
+    .right {
+        width: 35%;
+        display: inline-flex;
+        padding: 0;
+        margin: 0;
+        justify-content: left;
+    }
+
+    .contact-us {
+        font-size: 8px;
+        padding: 3px 8px;
+        margin: 0;
+        font-weight: 800;
+        border: 3px solid white;
+    }
+
+    .more-economy {
+        position: absolute;
+        top: 50px;
+        right: 20px;
+    }
+
+    .more {
+        font-size: 12px;
+        line-height: 8px;
+    }
+
+    .more br {
+        display: none;
+    }
+
+    .most-beloved {
+        font-size: 9px;
+        line-height: 18px;
+    }
+
+    .most-beloved br:nth-child(1),
+    .most-beloved br:nth-child(3) {
+        display: none;
+    }
+
+    .dis-btn {
+        font-size: 10px;
+        font-weight: 700;
+        border: 3px solid white;
+        padding: 3px 8px;
+        margin-top: 4px;
+    }
+
+    .dis-btn img {
+        height: 12px;
+    }
+
+    #about-us {
+        margin: 0;
+        text-align: center;
+        font-size: 18px;
+        padding: 15px 0;
+    }
+
+    .sect-two {
+        display: block;
+    }
+
+    .text {
+        line-height: 18px;
+        font-size: 10px;
+        text-align: center;
+        padding: 0 20px;
+    }
+
+    .text br {
+        display: none;
+    }
+
+    .bugatti {
+        height: 150px;
+    }
+
+    .rectangle {
+        text-align: center;
+    }
+
+    .btm-aus {
+        text-align: center;
+        font-size: 50px;
+        margin: -17px;
+    }
+
+    .left-curve,
+    .right-curve {
+        height: 70px;
+    }
+
+    .right-curve {
+        display: flex;
+        justify-content: flex-end;
+    }
+
+    #all {
+        text-align: center;
+        font-size: 18px;
+    }
+
+    .take {
+        text-align: center;
+        font-size: 12px;
+    }
+
+    .mid-div {
+        width: 73%;
+        display: block;
+        line-height: 18px;
+        margin-top: 70px;
+    }
+
+    .div h2 {
+        font-size: 15px;
+    }
+
+    .div p {
+        font-size: 12px;
+    }
+
+    .one {
+        background-color: #0d7a60;
+        border-radius: 15px;
+        padding: 15px;
+        margin-bottom: 45px;
+    }
+
+    .one img,
+    .three img,
+    .two img {
+        height: 100px;
+        margin-bottom: 0;
+    }
+
+    .one a {
+        color: white;
+        font-size: 12px;
+    }
+
+    .two {
+        background-color: #862223;
+        border-radius: 15px;
+        padding: 15px;
+        margin-bottom: 50px;
+    }
+    .one br,
+    .three br,
+    .two br {
+        display: none;
+    }
+
+    .three {
+        background-color: #0a3e8f;
+        border-radius: 15px;
+        padding: 15px;
+    }
+    .sec-cars h1 {
+        margin: 0;
+        padding-top: 30px;
+        font-size: 16px;
+        text-align: center;
+    }
+
+    .sec-cars p {
+        text-align: center;
+        font-size: 12px;
+        margin: 8px 0;
+    }
+
+    .car-imgs1,
+    .car-imgs2 {
+        display: block;
+        text-align: center;
+    }
+
+    .car-imgs1 img {
+        width: 48%;
+        margin-bottom: 5px;
+    }
+
+    .car-imgs2 img {
+        width: 48%;
+        margin-bottom: 5px;
+    }
+
+    .daya,
+    .fifth {
+        display: none;
+    }
+
+    .be-amazed {
+        display: block;
+        padding: 0;
+    }
+
+    .be-amazed br {
+        display: none;
+    }
+
+    .be-amazed h1 {
+        margin: 0;
+        font-size: 18px;
+    }
+
+    .be-amazed p {
+        font-size: 12px;
+        line-height: 20px;
+        margin: 10px 0;
+    }
+
+    .gimg {
+        height: 200px;
+    }
+
+    .cont-text {
+        font-size: 4em;
+        text-align: center;
+    }
+
+    .contact {
+        display: block;
+        text-align: center;
+    }
+
+    .contact h1 {
+        font-size: 18px;
+        padding-top: 45px;
+    }
+
+    .contact p {
+        font-size: 12px;
+        line-height: 20px;
+    }
+
+    .contact p br {
+        display: none;
+    }
+
+    .inputs {
+        margin-top: 45px;
+    }
+
+    .message {
+        margin-top: 45px;
+        width: 260px;
+    }
+
+    .pin {
+        height: 37px;
+        top: 32%;
+    }
+
+    .pin {
+        height: 18px;
+        top: 38%;
+    }
+
+    .call-us {
+        display: block;
+        text-align: center;
+    }
+
+    .prim {
+        font-size: 18px;
+    }
+
+    .prim:hover {
+        font-size: 19px;
+    }
+
+    .quick {
+        display: inline-block;
+        width: 45%;
+        vertical-align: top;
+    }
+
+    .call-us h2 {
+        font-size: 12px;
+        margin-top: 20px;
+    }
+
+    .bottom {
+        display: block;
+        text-align: center;
+    }
+
+    .bottom p {
+        font-size: 10px;
+    }
+}
